@@ -1,6 +1,7 @@
-- 👋 Hi, I’m  Aniket Pandey
-- 👀 I’m interested in computers and cricket
-- 🌱 I’m currently studying btech from GBPUAT Pantnagar
+- 👋 Hi, I’m  Aniket Pandey and a full stack developer and currently upgrading my skill in NodeJs framework.
+- 👀 I’m interested in computers, cricket and playing chess.
+- 🌱 I have completed engineering from GBPUAT Pantnagar.
+- 🔭 I’m currently working on chatApp project.
 - 📫 I would love to help others in their codes...
 
 <!---
